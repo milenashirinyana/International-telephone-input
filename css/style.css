@@ -1,0 +1,15 @@
+.btn{padding: 6px;
+     width: 75px;
+     background-color: rgb(103, 167, 231);
+     border:none;
+     border-radius: 5px;
+     color:#fff;
+    }
+#phone{outline-color: rgb(103, 167, 231);
+       height: 26px;
+}
+
+p{letter-spacing: 3px;
+    text-shadow: 2px 2px 5px rgb(103, 167, 231) ;
+    font-size: 17px;
+}
